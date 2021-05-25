@@ -1,7 +1,7 @@
 const About = () => {
-    return(
+    return (
         <>
-        about us
+            Service page
         </>
     )
 }

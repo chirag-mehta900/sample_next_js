@@ -1,13 +1,13 @@
-.topnav{
-    background-color: #2445A6;
+.topnav {
+    background-color: #2445a6;
 }
-.logo_pages{
+.logo_pages {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-.nav_content{
+.nav_content {
     font-size: 20px;
-    color: #92A2D3;
+    color: #92a2d3;
     text-transform: uppercase;
 }

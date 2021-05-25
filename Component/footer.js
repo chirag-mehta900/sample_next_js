@@ -9,9 +9,7 @@ const Footer = () => {
             <section className={styles.f_footer}>
                 <div className="container">
                     <div className={styles.footer_box}>
-                        <div 
-                        // className={styles.footer_logo}
-                        >
+                        <div>
                             <Image
                                 src="/Logo.png" alt="Picture of the author"
                                 width={100}

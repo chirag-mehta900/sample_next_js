@@ -4,8 +4,8 @@ import styles from '../styles/Home.module.css'
 const Intro = () => {
     return (
         <>
-            <section style={{marginTop:"60px"}}>
-                <div className="container" style={{paddingBottom:"50px"}}>
+            <section style={{ marginTop: "60px" }}>
+                <div className="container" style={{ paddingBottom: "50px" }}>
                     <div className={styles.intro_box}>
                         <div className={styles.intro_image}>
                             <Image

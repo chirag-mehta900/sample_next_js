@@ -1,6 +1,9 @@
 import Banner from "./Banner"
+import Customer from "./customer"
 import Intro from "./intro"
 import Services from "./service"
+import ServiceListout from "./serviceListout"
+import Work from "./work"
 
 const Landing = () => {
     return (
@@ -9,6 +12,9 @@ const Landing = () => {
                 <Banner />
                 <Intro />
                 <Services />
+                <ServiceListout />
+                <Customer />
+                <Work />
             </section>
         </>
     );

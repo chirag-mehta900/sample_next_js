@@ -15,7 +15,7 @@ const Banner = () => {
                         </Image>
                     </div>
                     <div className={styles.banner_content}>
-                    <p>another boring web acency</p>
+                        <p>another boring web acency</p>
                     </div>
                 </div>
             </section>
